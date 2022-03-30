@@ -36,7 +36,7 @@ To start working on a recipe (new or existing), you first need to get
 a local copy of the repo on your computer. Make sure you have ``git``
 installed, and then run::
 
-  git clone https://github.com/<USERNAME>/bioconda-recipes.git
+  git clone https://github.com/<USERNAME>/bioconda-recipes.git 
 
 This will create a folder ``bioconda-recipes``. To be able to update
 this folder more easily with changes made to our repository, add
